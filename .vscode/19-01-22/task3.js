@@ -1,5 +1,6 @@
 let array=["hello","i","am","bhuppi"]
 function test3(newarray){
-    console.log(newarray.join());
+    return newarray.join();
 }
-test3(array)
+console.log(test3(array))
+

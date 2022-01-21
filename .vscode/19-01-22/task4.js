@@ -12,5 +12,5 @@ function task4(newArray,n)
     }
     return -1;
 }
-console.log(task4(["Harry","Carry","Larry","Marry"],'Carry')); 
+console.log(task4(["Harry","Carry","Larry","Marry"],'Larry')); 
         

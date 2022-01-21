@@ -3,4 +3,4 @@ function test(newarr,num){
     console.log(num);
     newarr.forEach(e=>console.log(e))
 } 
-test(arr,2);
+test(arr,5);
